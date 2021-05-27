@@ -23,3 +23,6 @@ nbdist/
 /demo.iml
 /mvnw.cmd
 /mvnw
+/.idea/*
+/out/*
+/les1.iml
