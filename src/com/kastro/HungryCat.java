@@ -1,11 +1,11 @@
 package com.kastro;
 
-public class Cat {
+public class HungryCat {
     private String name;
     private int appetite;
     private boolean satiety = false;
 
-    public Cat(String name, int appetite) {
+    public HungryCat(String name, int appetite) {
         this.name = name;
         this.appetite = appetite;
     }
